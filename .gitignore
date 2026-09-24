@@ -33,6 +33,7 @@ liteidex/bin
 liteidex/liteide
 liteidex/src/github.com
 liteidex/src/golang.org/
+liteidex/deploy/liteapp/qrc/
 
 #macosx
 .DS_Store
